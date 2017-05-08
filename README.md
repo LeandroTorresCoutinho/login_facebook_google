@@ -6,3 +6,4 @@ test of login with facebook<br>
 -bundle install<br>
 -rake db:setup<br>
 -rails s<br>
+# login_facebook_google
